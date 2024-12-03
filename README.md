@@ -11,15 +11,26 @@
 |<b> Deliverables </b>  | - <b>The project consists of a data analysis and a linear regression model in Python </b> | |
 |<b> Dataset list </b> |- <b> The data was extracted from Kaggel</b>|  |
 
-
-<h2>Import the packages:</h2>   
-
 <h2>Import the Data </h2> 
+
+![Join dates](https://github.com/antomagu/Advertising/blob/main/Captura%20de%20pantalla%202024-12-02%20173231.png)
+
+
 <h2>EDA</h2> 
+
+![Join dates](https://github.com/antomagu/Advertising/blob/main/Captura%20de%20pantalla%202024-12-02%20173315.png)
+
+![Join dates](https://github.com/antomagu/Advertising/blob/main/Captura%20de%20pantalla%202024-12-02%20173424.png)
+
 <h2>Splitting the data</h2> 
+
+![Join dates](https://github.com/antomagu/Advertising/blob/main/Captura%20de%20pantalla%202024-12-02%20173458.png)
+
 <h2>Evaluation of the mode</h2> 
 
-If you want to see the entire Python code click **[HERE]()**:
+![Join dates](https://github.com/antomagu/Advertising/blob/main/Captura%20de%20pantalla%202024-12-02%20173612.png)
+
+If you want to see the entire Python code click **[HERE](https://www.kaggle.com/code/antonioguev/advertising-prediction?scriptVersionId=211066881)**:
 
 <h2>Conclusions</h2> 
 According to the model, there is no correlation between radio and newspaper with sales.
