@@ -23,8 +23,9 @@ If you want to see the entire Python code click **[HERE]()**:
 
 <h2>Conclusions</h2> 
 According to the model, there is no correlation between radio and newspaper with sales.
+
 Television has the highest correlation compared to the rest.
-In other words, according to the data, sales have almost nothing to do with radio and newspaper media but with television.
-It could be interpreted that media such as radio and newspaper need more work in advertising to generate more sales.
+In other words, according to the data, sales have almost nothing to do with radio and newspaper advertising.
+It could be interpreted that advertising in radio and newspaper need more work to generate more sales.
 Secondly, it could mean that people tend to be more influenced by advertising on television.
 
